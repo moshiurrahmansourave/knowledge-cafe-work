@@ -1,0 +1,43 @@
+[
+    {
+      "ID": 1,
+      "Cover": "https://i.ibb.co/BGLHNKR/high-angle-desktop-with-laptop-copy-space.jpg",
+      "Title": "The Enigmatic Expedition",
+      "Author": "Jane A. Smith",
+      "Author_img": "https://i.ibb.co/FXPgGgK/boy1.png",
+      "Posted_date": "2023-09-14",
+      "Reading_time": 25 ,
+      "Hashtags": ["Adventure", "Mystery"]
+    },
+    {
+      "ID": 2,
+      "Cover": "https://i.ibb.co/BGLHNKR/high-angle-desktop-with-laptop-copy-space.jpg",
+      "Title": "A Tale of Two Realms",
+      "Author": "John D. Johnson",
+      "Author_img": "https://i.ibb.co/FXPgGgK/boy1.png",
+      "Posted_date": "2023-09-13",
+      "Reading_time": 30 ,
+      "Hashtags": ["Fantasy", "Adventure"]
+    },
+    {
+      "ID": 3,
+      "Cover": "https://i.ibb.co/BGLHNKR/high-angle-desktop-with-laptop-copy-space.jpg",
+      "Title": "Whispers in the Shadows",
+      "Author": "Emily R. Clark",
+      "Author_img": "https://i.ibb.co/FXPgGgK/boy1.png",
+      "Posted_date": "2023-09-12",
+      "Reading_time": 40,
+      "Hashtags": ["Thriller", "Suspense"]
+    },
+    {
+      "ID": 4,
+      "Cover": "https://i.ibb.co/BGLHNKR/high-angle-desktop-with-laptop-copy-space.jpg",
+      "Title": "The Cosmic Odyssey",
+      "Author": "David W. White",
+      "Author_img": "https://i.ibb.co/FXPgGgK/boy1.png",
+      "Posted_date": "2023-09-11",
+      "Reading_time": 60 ,
+      "Hashtags": ["ScienceFiction", "Space"]
+    }
+  ]
+  
